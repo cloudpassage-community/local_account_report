@@ -1,0 +1,22 @@
+halo:
+ api_key:
+ api_secret_key:
+filename: local_accounts_report.csv
+csv_columns: [
+  server_id: server id,
+  username: username,
+  uid: uid,
+  gid: gid,
+  admin: admin,
+  comment: comment,
+  home: home,
+  shell: shell,
+  last_login_at: last login at,
+  active: active,
+  last_login_from: last login from,
+  expires: expires,
+  password_locked: password locked,
+  password_locked_with: password locked with,
+  password_expires: password expires,
+  password_expired: password expired,
+]
